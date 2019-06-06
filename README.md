@@ -19,4 +19,13 @@ $ npm start
 $ npm run generate
 ```
 
+## モック
+ローカルでサーバー起動後、以下のURL直打ちで画面を確認できます。
+
+- login
+http://localhost:3000/login
+- top
+http://localhost:3000/top
+
+
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
